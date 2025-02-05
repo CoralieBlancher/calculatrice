@@ -31,6 +31,7 @@ p{
   width: 15vw;
   text-align: center;
   border: 1px solid red;
+  color: red;
 }
 
 @media screen and (max-width: 600px) {

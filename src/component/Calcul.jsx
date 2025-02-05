@@ -19,7 +19,7 @@ const Calcul = () => {
                 </tbody>
             </table>
             {
-                state.error && <p style={{color: "red"}}>{state.error}</p>
+                state.error && <p>{state.error}</p>
             }
         </>
     )
